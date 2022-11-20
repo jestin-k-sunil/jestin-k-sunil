@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jestinksunil@gmail.com**
 
-<a href="https://app.daily.dev/jeztyn"><img src="https://api.daily.dev/devcards/cbf8faf332a3476eba76220169ffbd57.png?r=jzg" width="400" alt="JESTIN K SUNIL's Dev Card"/></a>
+<a href="https://app.daily.dev/jeztyn"><img src="https://api.daily.dev/devcards/cbf8faf332a3476eba76220169ffbd57.png?r=yze" width="400" alt="JESTIN K SUNIL's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
