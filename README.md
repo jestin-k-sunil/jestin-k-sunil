@@ -27,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeztyn&" alt="jeztyn" /></p>
 
-
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
