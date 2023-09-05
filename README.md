@@ -4,9 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently student at Karunya Institute of Technology and Sciences<br>👯 I’m looking to collaborate on Cloud and Cybersecurity platform<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Cloud web hosting and Data science<br>⚡ Fun fact, I am very lazy to be lazy.
-
-- 📫 How to reach me **jestinksunil@gmail.com**
+🔭 I’m currently student at Karunya Institute of Technology and Sciences<br>👯 I’m looking to collaborate on Cloud and Cybersecurity platform<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Cloud web hosting and Data science<br>⚡ Fun fact, I am very lazy to be lazy.<br>📫 How to reach me **jestinksunil@gmail.com**
 
 
 ## 🌐 Socials:
