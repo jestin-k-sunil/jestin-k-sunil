@@ -1,4 +1,54 @@
+# 🔒 Jestin K Sunil | Cybersecurity Enthusiast 
 
+## 👨‍💻 About Me
+- 🎓 B.Tech Student | Graduating in 2025
+- 🛡️ Passionate Cybersecurity Researcher
+- 🌐 Specializing in Network Security & Threat Detection
+
+### 🔬 Key Projects
+- **SIEM (Security Information and Event Management) System**
+  - Developed comprehensive security monitoring solution
+  - Implemented real-time log analysis and threat correlation
+
+- **Botnet Detection Framework**
+  - Created advanced network traffic analysis tool
+  - Utilized machine learning algorithms for botnet identification
+
+### 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-red?style=flat-square)
+![Network Security](https://img.shields.io/badge/-Network%20Security-blue?style=flat-square)
+
+### 🏆 Cybersecurity Focus Areas
+- Network Threat Analysis
+- Malware Research
+- Penetration Testing
+- Security Information Management
+- Incident Response
+
+### 📊 GitHub Stats
+![Jestin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jestin-k-sunil&theme=dark&show_icons=true)
+
+### 🌱 Currently Learning
+- Advanced Threat Detection Techniques
+- Cloud Security
+- Forensic Analysis
+- Machine Learning in Cybersecurity
+
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jestin-k-sunil/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:jestinksunil@gmail.com)
+
+### 💡 Certifications & Achievements
+- Microsoft SC900
+- CPT
+
+---
+**"Securing the digital world, one line of code at a time"**
+
+<!--
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -25,4 +75,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jestinksunil&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
+
